@@ -36,5 +36,5 @@
   "addresses": "주소들",
   "foundOn": "에서 발견",
   "foreignChain": "외부 체인",
-  "multichainTxns": "멀티체인 트랜잭션"
+  "multi-chainTxns": "멀티체인 트랜잭션"
 }

@@ -36,5 +36,5 @@
   "addresses": "indirizzi",
   "foundOn": "trovato su",
   "foreignChain": "Catena Estera",
-  "multichainTxns": "Transazioni Multicatena"
+  "multi-chainTxns": "Transazioni Multicatena"
 }

@@ -36,5 +36,5 @@
   "addresses": "アドレス",
   "foundOn": "見つかった場所",
   "foreignChain": "外部チェーン",
-  "multichainTxns": "マルチチェーントランザクション"
+  "multi-chainTxns": "マルチチェーントランザクション"
 }

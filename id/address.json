@@ -36,5 +36,5 @@
   "addresses": "alamat",
   "foundOn": "ditemukan di",
   "foreignChain": "Rantai Asing",
-  "multichainTxns": "Transaksi Multirantai"
+  "multi-chainTxns": "Transaksi Multirantai"
 }
