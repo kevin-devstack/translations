@@ -34,7 +34,7 @@
     "from": "Dari",
     "to": "Ke"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "Near (N) Transaction {txn} | NearBlocks",
     "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {txn}.",
     "heading": "Detail Transaksi",

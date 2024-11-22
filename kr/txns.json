@@ -34,7 +34,7 @@
     "from": "보낸 사람",
     "to": "받는 사람"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "트랜잭션 {txn} | 블록 근처",
     "metaDescription": "근처 트랜잭션 {txn}에 대한 블록 체인 자세한 정보.",
     "heading": "거래 세부 정보",

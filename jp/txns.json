@@ -34,7 +34,7 @@
     "from": "から",
     "to": "へ"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "NEARでの取引 {txn} | NearBlocks",
     "metaDescription": "NEARの取引詳細情報{txn}.",
     "heading": "取引詳細",

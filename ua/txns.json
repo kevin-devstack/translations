@@ -34,7 +34,7 @@
     "from": "Від:",
     "to": "До:"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "Транзакція Near {txn} | NearBlocks",
     "metaDescription": "Детальна інформація з блокчейну Near для транзакції {txn}.",
     "heading": "Деталі транзакції",

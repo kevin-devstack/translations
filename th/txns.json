@@ -34,7 +34,7 @@
     "from": "จาก",
     "to": "ไปยัง"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "ธุรกรรม Near {txn} | NearBlocks",
     "metaDescription": "รายละเอียดเพิ่มเติมของธุรกรรมบนบล็อกเชน Near {txn}.",
     "heading": "รายละเอียดธุรกรรม",

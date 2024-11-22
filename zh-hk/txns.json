@@ -34,7 +34,7 @@
     "from": "由",
     "to": "至"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "NEAR交易 {{txn}} | NearBlocks",
     "metaDescription": "NEAR區塊鏈交易詳情{{txn}}。",
     "heading": "交易詳情",

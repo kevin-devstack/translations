@@ -34,7 +34,7 @@
     "from": "Da",
     "to": "A"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "Transazione Near {txn} | NearBlocks",
     "metaDescription": "Info dettagliate di transazioni su Near Blockchain {txn}.",
     "heading": "Dettagli della Transazione",

@@ -34,7 +34,7 @@
     "from": "Từ",
     "to": "Đến"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "Giao dịch Near {txn} | NearBlocks",
     "metaDescription": "Thông tin chi tiết về giao dịch Near Blockchain {txn}.",
     "heading": "Thông tin chi tiết về giao dịch",
