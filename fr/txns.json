@@ -28,6 +28,7 @@
   "amount": "Montant",
   "filter": {
     "placeholder": "Rechercher par adresse e.g. Ⓝ..",
+    "tokenPlaceholder": "Recherche par jeton",
     "filter": "Filtre",
     "clear": "claire",
     "by": "Filtré par",

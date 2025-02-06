@@ -28,6 +28,7 @@
   "amount": "Cantidad",
   "filter": {
     "placeholder": "Buscar por dirección p.e. Ⓝ..",
+    "tokenPlaceholder": "Buscar por token",
     "filter": "Filtro",
     "clear": "Limpiar",
     "by": "Filtrado por",

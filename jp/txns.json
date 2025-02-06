@@ -28,6 +28,7 @@
   "amount": "数量",
   "filter": {
     "placeholder": "アドレスで探す e.g. Ⓝ..",
+    "tokenPlaceholder": "トークンで検索",
     "filter": "フィルター",
     "clear": "クリア",
     "by": "で抽出する",

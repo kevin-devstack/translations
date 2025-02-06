@@ -28,6 +28,7 @@
   "amount": "Amount",
   "filter": {
     "placeholder": "Search by address e.g. Ⓝ..",
+    "tokenPlaceholder": "Search by token",
     "filter": "Filter",
     "clear": "Clear",
     "by": "Filtered By",

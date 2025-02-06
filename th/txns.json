@@ -28,6 +28,7 @@
   "amount": "จำนวน",
   "filter": {
     "placeholder": "ค้นหาจากแอดเดรส เช่น Ⓝ..",
+    "tokenPlaceholder": "ค้นหาด้วยโทเค็น",
     "filter": "ตัวกรอง",
     "clear": "ล้่าง",
     "by": "กรองโดย",

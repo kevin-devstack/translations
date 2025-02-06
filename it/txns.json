@@ -28,6 +28,7 @@
   "amount": "Importo",
   "filter": {
     "placeholder": "Cerca per indirizzo e.g. Ⓝ..",
+    "tokenPlaceholder": "Cerca per token",
     "filter": "Filtro",
     "clear": "Cancella",
     "by": "Filtrado da",

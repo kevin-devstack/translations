@@ -28,6 +28,7 @@
   "amount": "분량",
   "filter": {
     "placeholder": "주소로 검색합니다(예:  Ⓝ ).",
+    "tokenPlaceholder": "토큰으로 검색",
     "filter": "필터",
     "clear": "맑다",
     "by": "필터링",
