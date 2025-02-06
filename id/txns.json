@@ -8,6 +8,7 @@
   "type": "Metode",
   "typeTxn": "Transaksi",
   "typeToken": "Transaksi token",
+  "tokenPlaceholder": "Cari berdasarkan token",
   "unknownType": "Tidak diketahui",
   "batchTxns": "Transaksi Batch",
   "createAccount": "Buat Akun",
@@ -28,7 +29,6 @@
   "amount": "Jumlah",
   "filter": {
     "placeholder": "Cari berdasarkan alamat misalnya  Ⓝ ..",
-    "tokenPlaceholder": "Cari berdasarkan token",
     "filter": "Saringan",
     "clear": "Jelas",
     "by": "Disaring oleh",

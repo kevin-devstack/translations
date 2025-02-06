@@ -8,6 +8,7 @@
   "type": "类型",
   "typeTxn": "交易",
   "typeToken": "交易代币",
+  "tokenPlaceholder": "按代币搜索",
   "unknownType": "未知",
   "batchTxns": "批量交易",
   "createAccount": "创建账户",
@@ -28,7 +29,6 @@
   "amount": "数量",
   "filter": {
     "placeholder": "按地址搜索，例如Ⓝ..",
-    "tokenPlaceholder": "按代币搜索",
     "filter": "过滤器",
     "clear": "清除",
     "by": "过滤条件",

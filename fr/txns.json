@@ -8,6 +8,7 @@
   "type": "Méthode",
   "typeTxn": "Transaction",
   "typeToken": "Jeton transaction",
+  "tokenPlaceholder": "Recherche par jeton",
   "unknownType": "Inconnue",
   "batchTxns": "Transaction par lots",
   "createAccount": "Créer un compte",
@@ -28,7 +29,6 @@
   "amount": "Montant",
   "filter": {
     "placeholder": "Rechercher par adresse e.g. Ⓝ..",
-    "tokenPlaceholder": "Recherche par jeton",
     "filter": "Filtre",
     "clear": "claire",
     "by": "Filtré par",

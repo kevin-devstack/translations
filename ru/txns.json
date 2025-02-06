@@ -8,6 +8,7 @@
   "type": "Метод",
   "typeTxn": "Транзакция",
   "typeToken": "Транзакция токена",
+  "tokenPlaceholder": "Поиск по токену",
   "unknownType": "Неизвестно",
   "batchTxns": "Пакетная транзакция",
   "createAccount": "Создать учетную запись",
@@ -28,7 +29,6 @@
   "amount": "Количество",
   "filter": {
     "placeholder": "Поиск по адресу, например  Ⓝ ..",
-    "tokenPlaceholder": "Поиск по токену",
     "filter": "Фильтр",
     "clear": "Ясный",
     "by": "Отфильтровано по",

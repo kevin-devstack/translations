@@ -8,6 +8,7 @@
   "type": "Method",
   "typeTxn": "交易",
   "typeToken": "代幣轉帳",
+  "tokenPlaceholder": "按代幣搜尋",
   "unknownType": "不明",
   "batchTxns": "批量交易",
   "createAccount": "創建帳戶",
@@ -28,7 +29,6 @@
   "amount": "數量",
   "filter": {
     "placeholder": "以地址搜尋，如Ⓝ..",
-    "tokenPlaceholder": "按代幣搜尋",
     "filter": "籂選",
     "clear": "清除",
     "by": "籂選條件",

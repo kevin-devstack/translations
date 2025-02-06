@@ -8,6 +8,7 @@
   "type": "タイプ",
   "typeTxn": "取引",
   "typeToken": "トークンタイプ",
+  "tokenPlaceholder": "トークンで検索",
   "unknownType": "不明",
   "batchTxns": "バッチ取引",
   "createAccount": "アカウント作成",
@@ -28,7 +29,6 @@
   "amount": "数量",
   "filter": {
     "placeholder": "アドレスで探す e.g. Ⓝ..",
-    "tokenPlaceholder": "トークンで検索",
     "filter": "フィルター",
     "clear": "クリア",
     "by": "で抽出する",

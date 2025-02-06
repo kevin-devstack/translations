@@ -8,6 +8,7 @@
   "type": "Metodo",
   "typeTxn": "Transazione",
   "typeToken": "Transazione di Token",
+  "tokenPlaceholder": "Cerca per token",
   "unknownType": "Sconosciuto",
   "batchTxns": "Transazione Batch",
   "createAccount": "Crea Account",
@@ -28,7 +29,6 @@
   "amount": "Importo",
   "filter": {
     "placeholder": "Cerca per indirizzo e.g. Ⓝ..",
-    "tokenPlaceholder": "Cerca per token",
     "filter": "Filtro",
     "clear": "Cancella",
     "by": "Filtrado da",

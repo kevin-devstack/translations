@@ -8,6 +8,7 @@
   "type": "Loại",
   "typeTxn": "Giao dịch",
   "typeToken": "Giao dịch Token",
+  "tokenPlaceholder": "Tìm kiếm theo mã thông báo",
   "unknownType": "Không xác định",
   "batchTxns": "Giao dịch hàng loạt",
   "createAccount": "Tạo tài khoản",
@@ -28,7 +29,6 @@
   "amount": "Số lượng",
   "filter": {
     "placeholder": "Tìm bằng địa chỉ v.d. Ⓝ..",
-    "tokenPlaceholder": "Tìm kiếm theo mã thông báo",
     "filter": "Bộ lọc",
     "clear": "Làm trống",
     "by": "Lọc",
