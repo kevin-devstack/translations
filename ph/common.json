@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Itong blockchain explorer ay Nawala sa sync. Ibang blocks o transaksyon ma-aaring mag tagal."
+  "outofSync": "Itong blockchain explorer ay Nawala sa sync. Ibang blocks o transaksyon ma-aaring mag tagal.",
+  "rpcUnavailable": "Ang kasalukuyang RPC ay hindi magagamit. Subukan muli sa ibang pagkakataon o subukan gamit ang ibang RPC mula sa RPC Menu sa kanang sulok sa itaas."
 }

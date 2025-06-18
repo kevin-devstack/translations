@@ -76,5 +76,6 @@
     "centralisedExchange": "Exchange ไม่กระจายศูนย์",
     "decentralisedExchange": "Exchange กระจายศูนย์"
   },
-  "outofSync": "Blockchain Explorer ไม่สามารถ Sync ข้อมูลได้ อาจมีความล้าช้าในการสร้างบล็อก และธุรกรรม"
+  "outofSync": "Blockchain Explorer ไม่สามารถ Sync ข้อมูลได้ อาจมีความล้าช้าในการสร้างบล็อก และธุรกรรม",
+  "rpcUnavailable": "RPC ปัจจุบันไม่พร้อมใช้งาน โปรดลองใหม่อีกครั้งในภายหลังหรือลองใช้ RPC อื่นจากเมนู RPC ที่มุมขวาบน"
 }
